@@ -8,7 +8,7 @@
 
 ## About Us
 
-Epicentre is an epidemiology, medical research, innovation and training group embedded in [Médecins sans frontières (MSF)](https://www.msf.fr/) created in 1986. Today Epicentre conducts field epidemiology activities, research projects and training sessions in support of MSF goals of **providing medical assistance in areas where people are suffering from conflict, epidemics, disasters or where access to care is inadequate or non-existent**.
+Epicentre is an epidemiology, medical research, innovation and training group created in 1986 and embedded in [Médecins sans frontières (MSF)](https://www.msf.fr/). Today Epicentre conducts field epidemiology activities, research projects and training sessions in support of MSF goals of **providing medical assistance in areas where people are suffering from conflict, epidemics, disasters or where access to care is inadequate or non-existent**.
 
 Our experience and presence within MSF enables us to design and carry out projects in complex, and often unstable, situations specific to humanitarian aid to meet the healthcare needs of these populations and support MSF’s public statements. We have research centres in Paris, France (🇫🇷), Maradi, Niger (🇳🇪) and Mbarara, Uganda (🇺🇬). 
 
