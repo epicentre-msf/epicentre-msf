@@ -2,9 +2,7 @@
 
 ![Epicentre - MSF logo](../assets/epicentre_msf_logo.png)
 
-_Field epidemiology, data science & research for the health of populations in precarious situation._
-
-⛑️ ♾️ 📊
+⛑️ _Field epidemiology, data science & research for the health of populations in precarious situation._
 
 ---
 
