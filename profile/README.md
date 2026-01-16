@@ -21,6 +21,6 @@ Our experience and presence within MSF enables us to design and carry out projec
 - [WhatsApp channel](https://www.whatsapp.com/channel/0029VaKszllGOj9ocbd8aF1h)
 ---
 
-Also consider donating to [Médecins Sans Frontières](https://soutenir.msf.fr/faire-un-don), a medical humanitarian oragnisation that is only funded through private donations.
+Also consider donating to [Médecins Sans Frontières](https://soutenir.msf.fr/faire-un-don), a medical humanitarian organisation that is only funded through private donations.
 
 With ❤️ from Epicentre team
